@@ -19,9 +19,9 @@
     "url": "git+https://github.com/corno/astn-handlers.git"
   },
   "types": "dist/index.d.ts",
-  "version": "0.5.4",
+  "version": "0.6.0",
   "dependencies": {
     "astn-tokenconsumer-api": "^0.3.4"
   },
-  "content-fingerprint": "f3764d61ec44d59d5e38d015a74e4995b03416ed"
+  "content-fingerprint": "ecec2a3fa4c8446de8de5d624eef6af31e7eb7cd"
 }
